@@ -34,13 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : For food lovers
-    description                           : Professionals and new cooks alike can benefit from tracking food creations.
-    fontawesome_icon_name                 : heart
+  - title                                 : Say something
+    description                           : With stickers about nothing.
+    fontawesome_icon_name                 : comment-dots
     
-  - title                                 : iPhone Exclusive
-    description                           : Built specifically for iOS and optimized for the latest iPhones.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Liven up your messages
+    description                           : With hand-picked quotes from America's favorite sitcom.
+    fontawesome_icon_name                 : tv
+    
+  - title                                 : The funny one, the bald one, the goofy one, and the intelligent one
+    description                           : A well-rounded selection of the funniest moments.
+    fontawesome_icon_name                 : list-alt
 
   - title                                 : Privacy First
     description                           : Your data never leaves your device unless you share with 3rd party apps.
@@ -50,25 +54,9 @@ features                                  :
     description                           : Built for ease of use and simple navigation.
     fontawesome_icon_name                 : thumbs-up
 
-  - title                                 : Unlimited Entries
-    description                           : Create an ulimited amount of food entries, for any type.
-    fontawesome_icon_name                 : utensils
-  
-  - title                                 : Favorites View
-    description                           : Not all meals are created equal -- easily find your favorites.
-    fontawesome_icon_name                 : star
-
-  - title                                 : No Ads
-    description                           : Enjoy creating and browsing your entries without disruptive ads.
-    fontawesome_icon_name                 : ad
-
-  - title                                 : No Subscription
+  - title                                 : No Additional Purchases
     description                           : Download once and call it a day.
     fontawesome_icon_name                 : credit-card
-
-  - title                                 : In-App Dark Mode
-    description                           : Turn off the lights with the gorgeous dark mode inside Settings.
-    fontawesome_icon_name                 : adjust
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
