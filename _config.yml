@@ -40,19 +40,19 @@ features                                  :
     
   - title                                 : Liven up your messages
     description                           : With hand-picked quotes from America's favorite sitcom.
-    fontawesome_icon_name                 : tv
+    fontawesome_icon_name                 : comments
     
   - title                                 : The funny one, the bald one, the goofy one, and the intelligent one
     description                           : A well-rounded selection of the funniest moments.
     fontawesome_icon_name                 : list-alt
+    
+  - title                                 : Original Designs
+    description                           : Featuring all original typeform and artwork.
+    fontawesome_icon_name                 : palette
 
   - title                                 : Privacy First
     description                           : Your data never leaves your device unless you share with 3rd party apps.
     fontawesome_icon_name                 : lock
-
-  - title                                 : Intuitive Design
-    description                           : Built for ease of use and simple navigation.
-    fontawesome_icon_name                 : thumbs-up
 
   - title                                 : No Additional Purchases
     description                           : Download once and call it a day.
