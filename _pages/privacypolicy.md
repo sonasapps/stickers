@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-October 23 2020
+Jan 11 2021
 
 # Privacy Policy
 The Sticker Pack About Nothing was built as a commercial app. This Application is intended for use as is. This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Application. If you choose to use my Application, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
