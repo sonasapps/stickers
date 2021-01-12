@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : palette
 
   - title                                 : Privacy First
-    description                           : Your data never leaves your device unless you share with 3rd party apps.
+    description                           : No data is collected about you or your usage.
     fontawesome_icon_name                 : lock
 
   - title                                 : No Additional Purchases
